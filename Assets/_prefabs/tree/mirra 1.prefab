@@ -3515,7 +3515,7 @@ GameObject:
   - component: {fileID: 1997593680661552200}
   - component: {fileID: 7338779677754045319}
   m_Layer: 0
-  m_Name: mirra
+  m_Name: mirra 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
